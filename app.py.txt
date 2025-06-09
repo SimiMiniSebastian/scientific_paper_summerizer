@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("🧠 Scientific Paper Summarizer")
+st.write("Welcome! This app will help you upload a seminar paper (PDF) and summarize it in simple language.")
