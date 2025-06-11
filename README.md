@@ -6,7 +6,8 @@ Users can upload PDF papers, and the app extracts and summarizes the content in 
 ## How to use 
 1. Upload a PDF scientific paper in the app. 
 2. View the extracted text from the PDF. 
-3. Get a concise summary of the paper with highlighted important words. 
+3. Get a concise summary of the paper with highlighted important words.
+4. link : https://scientificpapersummerizer-clvbp3kxretgwjspkug3rz.streamlit.app/
  
 ## Technologies 
 - Python 
